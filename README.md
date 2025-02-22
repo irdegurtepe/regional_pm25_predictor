@@ -58,7 +58,7 @@ Applying Empirical Cumulative Distribution Function (ECDF) pruning to remove ext
 #### 16th step KNN IMPUTATION:  
 Handling missing data using k-nearest neighbors (KNN) imputation, leveraging patterns in neighboring observations to fill gaps.  
 #### 17th step STATISTICAL ANALYSIS:  
-Conducting exploratory data analysis (EDA), including correlation matrices, distributions, and trend analysis, to identify key relationships.  
+Conducting exploratory data analysis (EDA), including basic correlation parameters like STD, mean, median, percentile etc.  
 #### 18th step MODELLING:  
-Training machine learning models (e.g., Random Forest, XGBoost) on the processed dataset, tuning hyperparameters, and evaluating model performance using cross-validation metrics.  
+Training XGBoost model on the processed dataset, including hyperparameter optimization and performance evaluation through cross-validation metrics. This section contains multiple Python implementations to assess base model accuracy and distribution testing. While the primary model utilizes the complete dataset, additional models employ distinct testing protocols. For instance, random_selection_model.py implements an 80-20 train-test split (adjustable ratio), whereas other models utilize specific test datasets as detailed in the article.
 </div>
