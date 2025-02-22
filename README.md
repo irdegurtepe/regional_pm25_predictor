@@ -5,8 +5,8 @@ The RPP is a machine learning-based model that estimates fine particulate matter
 </div>
 <br>
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/721ce791-a2ab-4749-8508-93e7e663aa04" alt="PM2.5 article schema design" style="width: 75%;">
-</div>  
+    <img src="https://github.com/user-attachments/assets/16bff633-5291-4799-a2ec-b27ea5431d42" alt="PM2.5 article schema design" width="75%">
+</div>
 
 # 
 
